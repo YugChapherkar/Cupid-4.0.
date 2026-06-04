@@ -1,0 +1,12 @@
+{
+  "name": "Cupid2.0+",
+  "description": "A developer matchmaking app combining pair programming, date planning, and digital proposals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
