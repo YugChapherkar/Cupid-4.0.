@@ -306,7 +306,7 @@ const LandingPage = () => {
             <div className="order-1 lg:order-2 relative group-hover:scale-[1.02] transition-transform duration-700">
                <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                  <img 
-                   src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=800" 
+                   src="https://res.cloudinary.com/deimij13f/image/upload/v1780658267/1section_zdotnd.jpg?auto=format&fit=crop&q=80&w=800" 
                    className="w-full object-cover h-[400px] hover:scale-105 transition-transform duration-700" 
                    alt="Couple Walking"
                  />
@@ -336,7 +336,7 @@ const LandingPage = () => {
              <div className="relative group perspective-1000">
                 <div className="absolute inset-0 bg-lovely-pink/20 rounded-[2rem] transform rotate-3 scale-105 group-hover:rotate-1 transition-transform duration-500"></div>
                 <img 
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&auto=format&fit=crop" 
+                  src="https://res.cloudinary.com/deimij13f/image/upload/2section_tar1wr.webp?q=80&w=1000&auto=format&fit=crop" 
                   className="rounded-[2rem] shadow-xl w-full object-cover h-[500px] relative z-10 transform group-hover:-translate-y-2 transition-transform duration-500" 
                   alt="Couple Coding"
                 />
